@@ -16,5 +16,5 @@ This is the first module required by all trainees to introduce them to basic fun
   - [Git on Linux](https://www.linuxjournal.com/content/git-linux-beginners-guide-version-control-and-project-management): _A Beginner’s Guide to Version Control and Project Management_ by George Whittaker, Linux Journal, April 2025
   - [Mastering Linux File Permissions and Ownership](https://www.linuxjournal.com/content/mastering-linux-file-permissions-and-ownership) by George Whittaker, Linux Journal, April 2025
   - [The Power of Linux Shell Environment Variables](https://www.linuxjournal.com/content/power-linux-shell-environment-variables) by George Whittaker, Linux Journal, April 2025
-  - []
+  - [LINUX CHEAT SHEET](docs/linux-cheat-sheet-plexAI.md)
   
