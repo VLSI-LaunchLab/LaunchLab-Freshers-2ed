@@ -1,7 +1,8 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # Suggested `vim` Tutorial 
-
+**Interactive Built-in Tutorial:**
+Run `vimtutor` in your terminal. This is Vim’s official, interactive, step-by-step tutorial and is widely recommended as the best starting point for new users. It teaches you practical navigation, editing, and command-line basics directly in Vim itself
 Here are some excellent Vim tutorials for beginners and intermediate users:
 
 - **Interactive Built-in Tutorial:**
