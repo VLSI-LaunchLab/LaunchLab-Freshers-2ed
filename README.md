@@ -42,3 +42,7 @@ This is the first module required by all trainees to introduce them to basic fun
 - **Resources**:
   - [Other Advanced Topics](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training/blob/main/README.md#week-7-other-combinational-and-sequential-circuit-design): Notes from old notes covering FSM, STA, etc.
   - Digital Logic and Computer Design by M. Morris Mano. [[Link]](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf)
+
+---
+
+&copy; 2025, Silicon University, Odisha
