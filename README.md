@@ -19,7 +19,7 @@ This is the first module required by all trainees to introduce them to basic fun
   - [The Power of Linux Shell Environment Variables](https://www.linuxjournal.com/content/power-linux-shell-environment-variables) by George Whittaker, Linux Journal, April 2025
   - [LINUX CHEAT SHEET](docs/linux-cheat-sheet-plexAI.md)
   
-# Introduction to Digital Logic Circuit Design
+# Introduction to Digital Logic
 
 **PREREQ/ASSESSMENT** : Check your digital logic proficiency by taking [this test](docs/Digital-Circuits-Assignment.pdf)
 
@@ -31,4 +31,6 @@ This is the first module required by all trainees to introduce them to basic fun
 - **Misc.**: Multiplexer and Decoder based logic circuit design, Edge detector circuit design.
 - **Logic States**: Understanding the loging states and their relevances: 1, 0, X, Z.
 - **Timing Diagram**: Understanding the timing diagram of all the combi and sequential logic circuits.
-- *Reference Book*: Digital Logic and Computer Design by M. Morris Mano. [[Link]](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf)
+- **Resources**:
+  - [Other Advanced Topics](https://github.com/silicon-vlsi/LaunchLab-Freshers-Training/blob/main/README.md#week-7-other-combinational-and-sequential-circuit-design): Notes from old notes covering FSM, STA, etc.
+  - Digital Logic and Computer Design by M. Morris Mano. [[Link]](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf)
