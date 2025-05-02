@@ -13,13 +13,6 @@ This repository contains all the materials related to the basic MOSFET theory, C
 
 # Basic Circuits
 
-**PREREQ/ASSESSMENT** : Check your circuit proficiency: [[RC circuits](docs/RC-Circuit-Assesment.pdf)], [[Electrical Circuits](Electrical-Circuits-Assesment.pdf)].
+[Basic Circuits](https://github.com/VLSI-LaunchLab/LFT-basic-circuits) is a mandatory module for basic circuit theory, design and simulation. 
 
 
-**RESOURCES**
-- **TEXT**
-  - 
-
----
-
-&copy; 2025, Silicon University, Odisha
