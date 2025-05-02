@@ -29,7 +29,7 @@ This is the first module required by all trainees to introduce them to basic fun
   
 # Digital Logic
 
-**PREREQ/ASSESSMENT** : Check your digital logic proficiency by taking [this test](docs/Digital-Circuits-Assignment.pdf)
+**PREREQ/ASSESSMENT** : Check your digital logic proficiency by taking [this test](docs/Digital-Circuits-Assesment.pdf)
 
 - **Logic Gates**: Understanding of basic (NOT, AND, OR), universal (NAND, NOR) and special logic gates (X-OR,X-NOR). 
 - **Truth Table & K-Map**: Draw the truth table and find out the logic circuit using K-Map (up to 5 variable). 
@@ -47,7 +47,12 @@ This is the first module required by all trainees to introduce them to basic fun
 
 # Basic Circuits
 
-**PREREQ/ASSESSMENT** : Check your circuit proficiency by taking [this test](docs/Digital-Circuits-Assignment.pdf)
+**PREREQ/ASSESSMENT** : Check your circuit proficiency: [[RC circuits](docs/RC-Circuit-Assesment.pdf)], [[Electrical Circuits](Electrical-Circuits-Assesment.pdf)].
+
+
+**RESOURCES**
+- **TEXT**
+  - 
 
 ---
 
